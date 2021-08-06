@@ -7,4 +7,4 @@ plotly
 hvplot
 Mapbox API
 ## Use Case
-Help real estate invesment firm executives identify the most profitable neighborhoods in SF through clean and understandable visualisations such as heatmaps and charts.
+Help real estate invesment firm executives identify the most profitable neighborhoods in SF through clean and understandable visualisations such as heatmaps and charts. Display locations that have high gross rent income with lower sale price per square foot. 
