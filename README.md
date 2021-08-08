@@ -1,6 +1,6 @@
 # Challenge_6
 ## Purpose
-The purpose of this project is to find properties in the San Francisco market that are viable investment opportunities by using data visualization superpowers, including aggregation, interactive visualizations, and geospatial analysis.
+The purpose of this project is to find properties in the San Francisco market that are viable investment opportunities by using data visualization superpowers, including aggregation, interactive visualizations, and geospatial analysis. The goal was to collect and analyze data in order to select a profitable location. 
 ## Technology
 Pandas
 plotly
